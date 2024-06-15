@@ -19,8 +19,15 @@ Mural
 
 
 # Web Crawler
+We built an automated web crawling tool using python as our language and Google Colab.
+![image](https://github.com/mdawood832/OurCS-2022/assets/101743220/d752b0ce-9db5-4d7b-90ce-bf08c7630f9e)
+
 
 # Research Questions
+1. What fraction of the identified webpages were relevant?
+2. Among those, how many contained concrete processes and guidelines to guard against AI/ML technologies?
+3. How do you define what constitutes a process or guideline that could help guard against AI/ML bias?
+4. What were those steps? (For example, what regulatory considerations, practices, and processes do the government documents suggest help guard against AI/ML bias? 
 
 # Poster Presented 
 
