@@ -19,7 +19,7 @@ Researcher and Developer
 
 
 # Web Crawler
-We built an automated web crawling tool using python as our language and Google Colab.
+We built an automated web crawling tool using Python and Google Colab.
 ![image](https://github.com/mdawood832/OurCS-2022/assets/101743220/d752b0ce-9db5-4d7b-90ce-bf08c7630f9e)
 
 
