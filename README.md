@@ -27,9 +27,15 @@ We built an automated web crawling tool using python as our language and Google 
 1. What fraction of the identified webpages were relevant?
 2. Among those, how many contained concrete processes and guidelines to guard against AI/ML technologies?
 3. How do you define what constitutes a process or guideline that could help guard against AI/ML bias?
-4. What were those steps? (For example, what regulatory considerations, practices, and processes do the government documents suggest help guard against AI/ML bias? 
+4. What were those steps? (For example, what regulatory considerations, practices, and processes do the government documents suggest help guard against AI/ML bias?
+
+Research Organized Through Mural
+   ![image](https://github.com/mdawood832/OurCS-2022/assets/101743220/e60e26f6-9f1c-4f22-95dc-91515c0e6fbd)
+
 
 # Poster Presented 
+Presented poster in front of all undergraduate students, mentors, and event planners!
+![image](https://github.com/mdawood832/OurCS-2022/assets/101743220/7b31d41b-2b2d-46ec-9593-2c7c5a0fc07f)
 
 
 
