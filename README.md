@@ -7,7 +7,7 @@ Worked in a team to develop an automated web crawling tool that scrapes federal 
 October 17 to October 20, 2022
 
 # Role
-Researcher and Developer
+Researcher and Writer
 
 # Team
 4 Undergraduate Students and 2 PHD mentors
